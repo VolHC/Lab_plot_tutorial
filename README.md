@@ -13,6 +13,8 @@ Each student can open the notebook in **Google Colab**, edit and run it independ
 ---
 
 ## 🚀 Open in Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/VolHC/Lab_plot_tutorial/blob/main/lesson_one.ipynb
+1. Basic plot
+[![Lesson One](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/VolHC/Lab_plot_tutorial/blob/main//Basic_plot/notebooks/lesson_one.ipynb
 )
+
