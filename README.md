@@ -13,11 +13,8 @@ Each student can open the notebook in **Google Colab**, edit and run it independ
 ---
 
 ## 🚀 Open in Colab
-0. Construct python enviroment in your computer
-[![Lesson One](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/VolHC/Lab_plot_tutorial/blob/main//Basic_plot/notebooks/conda_install_tutorial.ipynb)
+- [Lesson Zero: Construct python environment in your computer](https://colab.research.google.com/github/VolHC/Lab_plot_tutorial/blob/main/Basic_plot/notebooks/conda_install_tutorial.ipynb)
+- [Lesson One: Basic plot example](https://colab.research.google.com/github/VolHC/Lab_plot_tutorial/blob/main/Basic_plot/notebooks/lesson_one.ipynb)
+- [Lesson Two: Plot and linear fitting](https://colab.research.google.com/github/VolHC/Lab_plot_tutorial/blob/main/Basic_plot/notebooks/lesson_two.ipynb)
 
-1. Basic plot
-[![Lesson One](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/VolHC/Lab_plot_tutorial/blob/main//Basic_plot/notebooks/lesson_one.ipynb)
 
