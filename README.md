@@ -16,5 +16,5 @@ Each student can open the notebook in **Google Colab**, edit and run it independ
 - [Lesson Zero: Construct python environment in your computer](https://colab.research.google.com/github/VolHC/Lab_plot_tutorial/blob/main/Basic_plot/notebooks/conda_install_tutorial.ipynb)
 - [Lesson One: Basic plot example](https://colab.research.google.com/github/VolHC/Lab_plot_tutorial/blob/main/Basic_plot/notebooks/lesson_one.ipynb)
 - [Lesson Two: Plot and linear fitting](https://colab.research.google.com/github/VolHC/Lab_plot_tutorial/blob/main/Basic_plot/notebooks/lesson_two.ipynb)
-
+- [Lesson Three: Polyhedra 3D projection plot](https://colab.research.google.com/github/VolHC/Lab_plot_tutorial/blob/main/Basic_plot/notebooks/lesson_three.ipynb)
 
